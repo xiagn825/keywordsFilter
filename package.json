@@ -1,0 +1,14 @@
+{
+  "name": "censorify",
+  "version": "0.0.1",
+  "description": "关键字过滤",
+  "main": "censortext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "xiagn",
+  "license": "ISC"
+}
